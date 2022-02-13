@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/notesListFragment">
+
+    <fragment
+        android:id="@+id/notesListFragment"
+        android:name="com.example.noteapp3.view.fragments.NotesListFragment"
+        android:label="fragment_notes_list"
+        tools:layout="@layout/fragment_notes_list" >
+        <action
+            android:id="@+id/action_notesListFragment_to_deatailsFragment"
+            app:destination="@id/deatailsFragment" />
+        <action
+            android:id="@+id/action_notesListFragment_to_notesAddFragment"
+            app:destination="@id/notesAddFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/notesAddFragment"
+        android:name="com.example.noteapp3.view.fragments.NotesAddFragment"
+        android:label="fragment_notes_add"
+        tools:layout="@layout/fragment_notes_add" >
+        <action
+            android:id="@+id/action_notesAddFragment_to_notesListFragment"
+            app:destination="@id/notesListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/deatailsFragment"
+        android:name="com.example.noteapp3.view.fragments.DeatailsFragment"
+        android:label="fragment_deatails"
+        tools:layout="@layout/fragment_deatails" >
+        <action
+            android:id="@+id/action_deatailsFragment_to_notesListFragment"
+            app:destination="@id/notesListFragment" />
+        <argument
+            android:name="data"
+            app:argType="integer" />
+
+    </fragment>
+</navigation>

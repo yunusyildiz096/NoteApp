@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/drawable/ic_baseline_color_lens_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/drawable/notes_background.xml" value="0.1125" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/drawable/select_black.xml" value="0.2203125" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/drawable/select_blue.xml" value="0.2203125" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/drawable/select_colors.xml" value="0.2203125" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/drawable/select_red.xml" value="0.2203125" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/layout/bottom_sheet_colors_selected.xml" value="0.18" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/layout/bottom_sheet_delete.xml" value="0.33" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/layout/fragment_deatails.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/layout/fragment_notes_add.xml" value="0.14" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/layout/fragment_notes_list.xml" value="0.20427305888483585" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/layout/notes_row.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/menu/delete_menu.xml" value="0.12" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/menu/menu_delete.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/yildi/AndroidStudioProjects/NoteApp3/app/src/main/res/menu/notes_colors_bottom_sheet.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.14" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
